@@ -11,7 +11,6 @@ public class Course {
         this.name=name;
         this.code=code;
         this.prefix=prefix;
-        this.teacher=teacher;
         int note=0;
     }
     void addTeacher(Teacher teacher){
